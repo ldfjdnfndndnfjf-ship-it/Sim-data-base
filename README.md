@@ -1,7 +1,7 @@
-# PAK SIM DATABASE - Premium Golden Edition
+# SIM DATABASE - Premium Golden Edition
 ## InfinityFree Deployment Guide
 
-This is a complete, production-ready PAK SIM Database application with **real database integration** for authentic statistics.
+This is a complete, production-ready SIM Database application with **real database integration** for authentic statistics.
 
 ---
 
@@ -60,7 +60,7 @@ define('DB_NAME', 'if0_xxxxx_simdb'); // Your database name
 
 1. Open your browser and visit:
    ```
-   https://yoursite.infinityfree.com/setup.php
+   https://sim-database.vercel.app
    ```
    (Replace `yoursite` with your actual domain)
 
@@ -70,7 +70,7 @@ define('DB_NAME', 'if0_xxxxx_simdb'); // Your database name
 
 ### Step 5: Access Your Website
 
-Visit: `https://yoursite.infinityfree.com/index.php`
+Visit: `https://sim-database.vercel.app
 
 Your website is now live! 🎉
 
@@ -148,7 +148,7 @@ You can customize:
 
 ## 📝 License
 
-Developed by OLD-STUDIO
+Developed by NAWAB ZADA HACKER 
 Premium Golden Edition - 2026
 
 ---
