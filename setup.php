@@ -1,6 +1,6 @@
 <?php
 /**
- * PAK SIM DATABASE - Database Setup (ENHANCED)
+ * NZ SIM DATABASE - Database Setup (ENHANCED)
  * Run this file once to create the required tables
  * FIXES: Added indexes for real-time queries, proper constraints
  */
